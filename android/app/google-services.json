@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489119136835",
+    "firebase_url": "https://aja-x-github-io-c48e4.firebaseio.com",
+    "project_id": "aja-x-github-io-c48e4",
+    "storage_bucket": "aja-x-github-io-c48e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489119136835:android:c4a705c0d6201ac5e1e8f6",
+        "android_client_info": {
+          "package_name": "id.ajax.personalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489119136835-puq99ap1i98d0429rdr5btq90jurc8lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3IG8VGX7JAhq1D_j8ZaYrr5aJKK_qiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489119136835-puq99ap1i98d0429rdr5btq90jurc8lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
